@@ -1,0 +1,8 @@
+= Bot melke
+
+== Run
+
+[source,bash]
+----
+uv run bot.py
+----
