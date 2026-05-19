@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
         "aiogram",
-        "dotenv"
+        "aiosqlite",
+        "apscheduler",
+        "botmelke",
+        "dotenv",
+        "lastrowid"
     ]
 }
