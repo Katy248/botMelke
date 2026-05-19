@@ -1,0 +1,13 @@
+= Botmelke
+
+== Run
+
+Set `API_TOKEN` in `.env` file in root of project, than run `bot.py`:
+
+[source,bash]
+----
+uv run bot.py
+----
+
+You can optionally specify `DB_PATH`, by default it is `./tasks.sqlite3`:
+
